@@ -31,6 +31,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Vtw2NUINe5jPZ58rGXxI3Ynx81" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,10 +45,14 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="pl.stqa.pft.sandbox" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\automaty-szkolenie\6. zadanie1\java_ptf\sandbox" />
     </key>
   </component>
   <component name="RunManager">
@@ -96,6 +101,11 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Notifications" timestamp="1578087683780">
       <screen x="0" y="0" width="1366" height="728" />
@@ -139,9 +149,10 @@
     </state>
     <state width="1323" height="319" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1160@0.0.1366.728" timestamp="1578091957208" />
     <state width="937" height="319" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1578090563963" />
-    <state x="1595" y="0" key="SettingsEditor" timestamp="1578090306672">
-      <screen x="1366" y="0" width="1920" height="1160" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1578126480465">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1600.1160@0.0.1366.728" timestamp="1578126480465" />
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1160@0.0.1366.728" timestamp="1578090052197" />
     <state x="1595" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1578090306672" />
     <state x="499" y="147" key="chooseDestDirectoryDialog" timestamp="1578125494893">
