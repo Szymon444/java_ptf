@@ -1,2 +1,2 @@
 # java_ptf
-zadanie1
+pl.stqa.pft.sandbox.zadanie1
